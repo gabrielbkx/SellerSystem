@@ -21,6 +21,7 @@ public class Program {
         shoppingCart.addProduct(p3);
         shoppingCart.addProduct(p4);
         shoppingCart.addProduct(p5);
+
         System.out.println("total ");
         System.out.print(shoppingCart.totalPurchase());
     }
